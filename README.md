@@ -3,7 +3,7 @@
 
 💬 - Ask me about **Databricks, Data Engineering, BI, Cloud, Azure, Modern Data Platforms**
 
-👨🏼‍💻 - Working as a Senior Consultant at <a href="https://www.btelligent.com/"> b.telligent</a>
+👨🏼‍💻 - Working as a Principal Consultant at <a href="https://www.btelligent.com/"> b.telligent</a>
 
 📖 - Blogging on my <a href="https://stefanko.ch">Techie-Site</a>
 
