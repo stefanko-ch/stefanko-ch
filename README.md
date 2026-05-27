@@ -1,8 +1,14 @@
-<h1 align="center">
-  Hi there, I'm Stefan
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" height="32" />
-</h1>
-<h3 align="center">A passionate Data Engineer & Architect from Switzerland 🇨🇭</h3>
+<!-- Animated wave banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Stefan%20Koch&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Architect%20%7C%20Cloud%20%7C%20Databricks&descAlignY=58&descSize=18" alt="header" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/stefanko-ch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Architect;Databricks+Champion;Cloud+%26+Azure+Enthusiast;Principal+Consultant+%40+ALTYCA;Coffee+%E2%86%92+Data+Pipelines+%E2%98%95" alt="Typing animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/stefanko-ch">
@@ -56,12 +62,41 @@
 
 ---
 
+### ⏱️ WakaTime — This Week
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stefanko-ch&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&layout=compact" alt="WakaTime stats" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/stefanko-ch/Databricks_Dojo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Databricks_Dojo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/stefanko-ch/Databricks_Misc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Databricks_Misc&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</p>
+
+---
+
 ### 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=stefanko-ch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
   </a>
+</p>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 ---
@@ -75,6 +110,47 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/stefanko-ch/stefanko-ch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 🎛️ GitHub Metrics
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<details>
+  <summary>📦 More Metrics Plugins</summary>
+  <p align="center">
+    <img src="./metrics.plugin.languages.svg" alt="Languages" />
+    <img src="./metrics.plugin.habits.svg" alt="Habits" />
+    <img src="./metrics.plugin.topics.svg" alt="Topics" />
+  </p>
+</details>
+
+---
+
+### 🏙️ GitHub Skyline
+
+> Explore my contributions as a 3D city on **[skyline.github.com/stefanko-ch](https://skyline.github.com/stefanko-ch/2025)** 🌆
+
+---
+
+### 📝 Latest Blog Posts — [stefanko.ch](https://stefanko.ch)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More on [stefanko.ch](https://stefanko.ch)
+
+---
+
+### ✍️ Latest Medium Stories
+
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
+
+➡️ More on [medium.com/@stefanko-ch](https://medium.com/@stefanko-ch)
 
 ---
 
@@ -100,4 +176,9 @@
   <a href="https://www.buymeacoffee.com/stefan.koch">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" alt="footer" />
 </p>

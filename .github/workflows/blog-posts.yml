@@ -1,0 +1,40 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with blog posts
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull stefanko.ch posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://stefanko.ch/index.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>"
+          date_format: "mmm dd, yyyy"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore: update latest stefanko.ch posts"
+
+      - name: Pull Medium stories
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@stefanko-ch"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>"
+          date_format: "mmm dd, yyyy"
+          comment_tag_name: "MEDIUM-POST-LIST"
+          commit_message: "chore: update latest Medium stories"
