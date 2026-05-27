@@ -146,8 +146,7 @@
 
 ### ✍️ Latest Medium Stories
 
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- MEDIUM-POST-LIST:START -->- [Nexus Stack: Your Data. Your Rules. Your Flow](https://stefanko-ch.medium.com/nexus-stack-your-data-your-rules-your-flow-46b29abc062d?source=rss-f99ea8b243c2------2) <sub>Jan 22, 2026</sub>- [Secure Hetzner Docker Deployment via Cloudflare Zero Trust Tunnel](https://stefanko-ch.medium.com/secure-hetzner-docker-deployment-via-cloudflare-zero-trust-tunnel-8f716c4631ce?source=rss-f99ea8b243c2------2) <sub>Jan 06, 2026</sub>- [Building a Live Data Simulator for Data Engineering Practice](https://stefanko-ch.medium.com/building-a-live-data-simulator-for-data-engineering-practice-10d924720492?source=rss-f99ea8b243c2------2) <sub>Dec 09, 2025</sub>- [From SharePoint to Databricks — and Back: Seamless Bidirectional Integration](https://stefanko-ch.medium.com/from-sharepoint-to-databricks-and-back-seamless-bidirectional-integration-307373efadfc?source=rss-f99ea8b243c2------2) <sub>May 28, 2025</sub>- [From Snapshots to CDC: How to load Snapshot-Data with Databricks Delta Live Tables](https://stefanko-ch.medium.com/from-snapshots-to-cdc-how-to-load-snapshot-data-with-databricks-delta-live-tables-2e32df4fd591?source=rss-f99ea8b243c2------2) <sub>Mar 16, 2025</sub><!-- MEDIUM-POST-LIST:END -->
 
 ➡️ More on [medium.com/@stefanko-ch](https://medium.com/@stefanko-ch)
 
