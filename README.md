@@ -73,11 +73,11 @@
 ### 📌 Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/stefanko-ch/Nexus-Stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Nexus-Stack&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
   <a href="https://github.com/stefanko-ch/Databricks_Dojo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Databricks_Dojo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-  <a href="https://github.com/stefanko-ch/Databricks_Misc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Databricks_Misc&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
   </a>
 </p>
 
