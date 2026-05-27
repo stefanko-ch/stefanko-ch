@@ -138,8 +138,7 @@
 
 ### 📝 Latest Blog Posts — [stefanko.ch](https://stefanko.ch)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Nexus Stack: Your Data. Your Rules. Your Flow](https://www.stefanko.ch/p/nexus-stack/) <sub>Jan 22, 2026</sub>- [Secure Hetzner Docker Deployment via Cloudflare Zero Trust Tunnel](https://www.stefanko.ch/p/zero-entry-docker/) <sub>Jan 06, 2026</sub>- [Building a Live Data Simulator for Data Engineering Practice](https://www.stefanko.ch/p/adventureworks-simulator/) <sub>Dec 09, 2025</sub>- [From SharePoint to Databricks – and Back: Seamless Bidirectional Integration](https://www.stefanko.ch/p/databricks-sharepoint-integration/) <sub>May 28, 2025</sub>- [From Snapshots to CDC: How to load Snapshot-Data with Databricks Delta Live Tables](https://www.stefanko.ch/p/delta-live-table-full-snapshot-source/) <sub>Mar 16, 2025</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [stefanko.ch](https://stefanko.ch)
 
