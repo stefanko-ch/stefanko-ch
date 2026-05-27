@@ -62,14 +62,6 @@
 
 ---
 
-### ⏱️ WakaTime — This Week
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stefanko-ch&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&layout=compact" alt="WakaTime stats" />
-</p>
-
----
-
 ### 📌 Featured Repositories
 
 <p align="center">
