@@ -49,74 +49,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanko-ch&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanko-ch&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=stefanko-ch&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak" />
-</p>
-
----
-
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/stefanko-ch/Nexus-Stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Nexus-Stack&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-  <a href="https://github.com/stefanko-ch/Databricks_Dojo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stefanko-ch&repo=Databricks_Dojo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-  </a>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=stefanko-ch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanko-ch&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stefanko-ch/stefanko-ch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🎛️ GitHub Metrics
 
 <p align="center">
   <img src="./metrics.svg" alt="GitHub Metrics" />
 </p>
-
-<details>
-  <summary>📦 More Metrics Plugins</summary>
-  <p align="center">
-    <img src="./metrics.plugin.languages.svg" alt="Languages" />
-    <img src="./metrics.plugin.habits.svg" alt="Habits" />
-    <img src="./metrics.plugin.topics.svg" alt="Topics" />
-  </p>
-</details>
-
----
-
-### 🏙️ GitHub Skyline
-
-> Explore my contributions as a 3D city on **[skyline.github.com/stefanko-ch](https://skyline.github.com/stefanko-ch/2025)** 🌆
 
 ---
 
