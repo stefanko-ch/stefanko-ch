@@ -1,21 +1,21 @@
-<!-- Animated wave banner -->
+<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Stefan%20Koch&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Architect%20%7C%20Cloud%20%7C%20Databricks&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:28315A&height=200&section=header&text=Stefan%20Koch&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%7C%20Architect%20%7C%20Cloud%20%7C%20Databricks&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/stefanko-ch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Architect;Databricks+Champion;Cloud+%26+Azure+Enthusiast;Principal+Consultant+%40+ALTYCA;Coffee+%E2%86%92+Data+Pipelines+%E2%98%95" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3E5C9A&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Architect;Databricks+Champion;Cloud+%26+Azure+Enthusiast;Founder+%40+Nitako+GmbH;Coffee+%E2%86%92+Data+Pipelines+%E2%98%95" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/stefanko-ch">
-    <img src="https://komarev.com/ghpvc/?username=stefanko-ch&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=stefanko-ch&label=Profile%20views&color=1E2A52&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/stefanko-ch?tab=followers">
-    <img src="https://img.shields.io/github/followers/stefanko-ch?label=Followers&style=flat&color=7aa2f7" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/stefanko-ch?label=Followers&style=flat&color=1E2A52" alt="Followers" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 ### 🧑‍💻 About Me
 
 - 💬 Ask me about **Databricks, Data Engineering, BI, Cloud, Azure, Modern Data Platforms**
-- 👨🏼‍💻 Working as a **Principal Consultant** at [ALTYCA](https://altyca.ch/)
+- 👨🏼‍💻 Founder of **[Nitako GmbH](https://nitako.ch)** — data engineering & coaching
 - 📖 Blogging on my [Techie-Site](https://stefanko.ch)
 - 📝 Also writing on [Medium](https://medium.com/@stefanko-ch)
 - ⚡ Fun fact: I turn coffee into data pipelines
@@ -37,13 +37,14 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -77,13 +78,13 @@
 
 <p align="center">
   <a href="https://stefanko.ch">
-    <img src="https://img.shields.io/badge/Website-stefanko.ch-7aa2f7?style=for-the-badge&logo=hugo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-stefanko.ch-1E2A52?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>
   <a href="https://medium.com/@stefanko-ch">
     <img src="https://img.shields.io/badge/Medium-@stefanko--ch-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://altyca.ch/">
-    <img src="https://img.shields.io/badge/ALTYCA-Principal%20Consultant-bf91f3?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <a href="https://nitako.ch">
+    <img src="https://img.shields.io/badge/NITAKO-nitako.ch-1E2A52?style=for-the-badge&logo=briefcase&logoColor=white" />
   </a>
 </p>
 
@@ -97,7 +98,7 @@
   </a>
 </p>
 
-<!-- Animated wave footer -->
+<!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:28315A&height=120&section=footer" alt="footer" />
 </p>
