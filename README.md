@@ -60,7 +60,7 @@
 
 ### 📝 Latest Blog Posts — [stefanko.ch](https://stefanko.ch)
 
-<!-- BLOG-POST-LIST:START -->- [Live Flight Data Step by Step - Part 3 - A collector that keeps going](https://www.stefanko.ch/p/live-flight-data-3-collector/) <sub>Oct 22, 2026</sub>- [Live Flight Data Step by Step - Part 2 - Storing raw answers in a DuckDB bronze layer](https://www.stefanko.ch/p/live-flight-data-2-bronze-duckdb/) <sub>Oct 21, 2026</sub>- [Live Flight Data Step by Step - Part 1 - OpenSky Network and the first API call](https://www.stefanko.ch/p/live-flight-data-1-opensky-network/) <sub>Oct 20, 2026</sub>- [Nexus Stack: Your Data. Your Rules. Your Flow](https://www.stefanko.ch/p/nexus-stack/) <sub>Jan 22, 2026</sub>- [Secure Hetzner Docker Deployment via Cloudflare Zero Trust Tunnel](https://www.stefanko.ch/p/zero-entry-docker/) <sub>Jan 06, 2026</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Live Flight Data Step by Step - Part 4 - Filling the gaps from Cloudflare R2](https://www.stefanko.ch/p/live-flight-data-4-backfill/) <sub>Oct 23, 2026</sub>- [Live Flight Data Step by Step - Part 3 - A collector that keeps going](https://www.stefanko.ch/p/live-flight-data-3-collector/) <sub>Oct 22, 2026</sub>- [Live Flight Data Step by Step - Part 2 - Storing raw answers in a DuckDB bronze layer](https://www.stefanko.ch/p/live-flight-data-2-bronze-duckdb/) <sub>Oct 21, 2026</sub>- [Live Flight Data Step by Step - Part 1 - OpenSky Network and the first API call](https://www.stefanko.ch/p/live-flight-data-1-opensky-network/) <sub>Oct 20, 2026</sub>- [Nexus Stack: Your Data. Your Rules. Your Flow](https://www.stefanko.ch/p/nexus-stack/) <sub>Jan 22, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [stefanko.ch](https://stefanko.ch)
 
