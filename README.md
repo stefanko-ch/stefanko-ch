@@ -60,7 +60,7 @@
 
 ### 📝 Latest Blog Posts — [stefanko.ch](https://stefanko.ch)
 
-<!-- BLOG-POST-LIST:START -->- [Live Flight Data Step by Step - Part 15 - Holdings, go-arounds and echoes](https://www.stefanko.ch/p/live-flight-data-15-holdings/) <sub>Nov 06, 2026</sub>- [Live Flight Data Step by Step - Part 14 - The official numbers](https://www.stefanko.ch/p/live-flight-data-14-eurocontrol/) <sub>Nov 05, 2026</sub>- [Live Flight Data Step by Step - Part 13 - The weather at Kloten](https://www.stefanko.ch/p/live-flight-data-13-meteoswiss/) <sub>Nov 01, 2026</sub>- [Live Flight Data Step by Step - Part 12 - Who is overflown?](https://www.stefanko.ch/p/live-flight-data-12-overflown/) <sub>Oct 31, 2026</sub>- [Live Flight Data Step by Step - Part 11 - Plane or train, and what an hour is worth](https://www.stefanko.ch/p/live-flight-data-11-rail/) <sub>Oct 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Live Flight Data Step by Step - Part 17 - Looking back, and the code](https://www.stefanko.ch/p/live-flight-data-17-looking-back/) <sub>Nov 08, 2026</sub>- [Live Flight Data Step by Step - Part 16 - The app](https://www.stefanko.ch/p/live-flight-data-16-app/) <sub>Nov 07, 2026</sub>- [Live Flight Data Step by Step - Part 15 - Holdings, go-arounds and echoes](https://www.stefanko.ch/p/live-flight-data-15-holdings/) <sub>Nov 06, 2026</sub>- [Live Flight Data Step by Step - Part 14 - The official numbers](https://www.stefanko.ch/p/live-flight-data-14-eurocontrol/) <sub>Nov 05, 2026</sub>- [Live Flight Data Step by Step - Part 13 - The weather at Kloten](https://www.stefanko.ch/p/live-flight-data-13-meteoswiss/) <sub>Nov 01, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [stefanko.ch](https://stefanko.ch)
 
